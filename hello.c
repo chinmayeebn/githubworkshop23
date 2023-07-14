@@ -1,4 +1,4 @@
-#include<stdio.h> //including stdio message//
+#include<stdio.h> //including stdiomessage//
 int main(){
 	printf("Hello world!");
 }
